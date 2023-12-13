@@ -1,3 +1,6 @@
+# Justin David Todd
+# 13 Dec 2023
+# A simple script that requests an excerpt and a word and displays the number of occurrences of that word in the excerpt, including substrings.
 
 def count_occurrences(my_string, my_word):
     """
